@@ -1,0 +1,16 @@
+{
+  "name": "authenticate",
+  "version": "1.0.0",
+  "description": "User authentication",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "oana",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwks-rsa": "^2.0.5"
+  }
+}

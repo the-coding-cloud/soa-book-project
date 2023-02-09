@@ -1,0 +1,26 @@
+version: "3"
+services:
+  authentication-api:
+    image: oana/authentication-api
+    ports:
+      - "8080:8080"
+    networks:
+      - app_net
+  books-api:
+    image: oana/books-api
+    ports:
+      - "8090:8090"
+    networks:
+      - app_net
+  api-gateway:
+    image: oana/api-gateway
+    ports:
+      - "8092:8092"
+    networks:
+      - app_net
+    depends_on:
+      - authentication-api
+      - books-api
+networks:
+  app_net:
+    driver: bridge

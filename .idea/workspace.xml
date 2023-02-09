@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9019bfb3-cf74-4256-a6b4-b4d16b5ae5a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2LTqQ7G165oadvNcEV1ctjfCK6U" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\`Master\Sem 3\SOA\SOA_DigitalLibrary\books-fe\host\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start (3)">
+    <configuration name="build (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/books-fe/books-ui-remote/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/books-fe/remote/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/books-fe/books-ui-remote/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (3)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/books-fe/books-ui-host/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/books-fe/remote/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (3)" />
+        <item itemvalue="npm.start (2)" />
+        <item itemvalue="npm.build (1)" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9019bfb3-cf74-4256-a6b4-b4d16b5ae5a9" name="Default Changelist" comment="" />
+      <created>1675905400508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675905400508</updated>
+      <workItem from="1675905402030" duration="6214000" />
+      <workItem from="1675930831757" duration="13523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1675942472427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-3440.0.3440.1400@0.0.1920.1040" timestamp="1675942472427" />
+    <state width="1877" height="155" key="GridCell.Tab.0.bottom" timestamp="1675947700674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="3397" height="141" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3440.0.3440.1400@-3440.0.3440.1400" timestamp="1675939282558" />
+    <state width="1877" height="155" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3440.0.3440.1400@0.0.1920.1040" timestamp="1675947700674" />
+    <state width="1877" height="155" key="GridCell.Tab.0.center" timestamp="1675947700674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="3397" height="141" key="GridCell.Tab.0.center/0.0.1920.1040/-3440.0.3440.1400@-3440.0.3440.1400" timestamp="1675939282558" />
+    <state width="1877" height="155" key="GridCell.Tab.0.center/0.0.1920.1040/-3440.0.3440.1400@0.0.1920.1040" timestamp="1675947700674" />
+    <state width="1877" height="155" key="GridCell.Tab.0.left" timestamp="1675947700674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="3397" height="141" key="GridCell.Tab.0.left/0.0.1920.1040/-3440.0.3440.1400@-3440.0.3440.1400" timestamp="1675939282558" />
+    <state width="1877" height="155" key="GridCell.Tab.0.left/0.0.1920.1040/-3440.0.3440.1400@0.0.1920.1040" timestamp="1675947700674" />
+    <state width="1877" height="155" key="GridCell.Tab.0.right" timestamp="1675947700674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="3397" height="141" key="GridCell.Tab.0.right/0.0.1920.1040/-3440.0.3440.1400@-3440.0.3440.1400" timestamp="1675939282558" />
+    <state width="1877" height="155" key="GridCell.Tab.0.right/0.0.1920.1040/-3440.0.3440.1400@0.0.1920.1040" timestamp="1675947700674" />
+    <state x="2216" y="-33" width="1525" height="914" key="find.popup" timestamp="1675908075006">
+      <screen x="1920" y="-174" width="2048" height="1120" />
+    </state>
+    <state x="2216" y="-33" width="1525" height="914" key="find.popup/1920.-174.2048.1120/0.0.1920.1040@1920.-174.2048.1120" timestamp="1675908075006" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1675944830369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-3440.0.3440.1400@0.0.1920.1040" timestamp="1675944830369" />
+  </component>
+</project>
